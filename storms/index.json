@@ -1,0 +1,452 @@
+{
+ "built": "2026-11-14 07:49 EST",
+ "window_start": "2025-11-14",
+ "window_end": "2026-11-14",
+ "bbox": [
+  -84.75,
+  35.4,
+  -83.0,
+  36.5
+ ],
+ "hail": {
+  "source": "NOAA NCEI Event Footprint Catalog - MRMS hail footprints",
+  "source_url": "https://www.ncei.noaa.gov/products/event-footprint-catalog",
+  "data_url": "https://storage.googleapis.com/noaa-ncei-ipg/datasets/event-catalog/hail/",
+  "classes": [
+   "0.5\u20130.99\"",
+   "1.0\u20131.49\"",
+   "1.5\u20131.99\"",
+   "2.0\u20132.49\"",
+   "2.5\"+"
+  ],
+  "first_file": "2025-11-14",
+  "last_file": "2026-11-13",
+  "files_checked": 365,
+  "hail_days": 67,
+  "features": 95,
+  "events": [
+   {
+    "day": "2026-01-16",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-03-21",
+    "max": "1.0\u20131.49\"",
+    "max_cls": 1
+   },
+   {
+    "day": "2026-03-22",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-04-01",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-04-25",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-04-28",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-05-20",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-05-22",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-05-24",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-05-27",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-05-30",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-05-31",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-06-01",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-06-09",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-06-12",
+    "max": "1.0\u20131.49\"",
+    "max_cls": 1
+   },
+   {
+    "day": "2026-06-13",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-06-14",
+    "max": "1.0\u20131.49\"",
+    "max_cls": 1
+   },
+   {
+    "day": "2026-06-18",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-06-22",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-06-27",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-06-28",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-06-29",
+    "max": "1.0\u20131.49\"",
+    "max_cls": 1
+   },
+   {
+    "day": "2026-07-03",
+    "max": "1.5\u20131.99\"",
+    "max_cls": 2
+   },
+   {
+    "day": "2026-07-04",
+    "max": "1.5\u20131.99\"",
+    "max_cls": 2
+   },
+   {
+    "day": "2026-07-05",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-07-06",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-07-07",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-07-10",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-07-11",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-07-12",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-07-14",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-07-16",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-07-17",
+    "max": "1.0\u20131.49\"",
+    "max_cls": 1
+   },
+   {
+    "day": "2026-07-18",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-07-19",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-07-27",
+    "max": "1.0\u20131.49\"",
+    "max_cls": 1
+   },
+   {
+    "day": "2026-07-28",
+    "max": "1.5\u20131.99\"",
+    "max_cls": 2
+   },
+   {
+    "day": "2026-07-29",
+    "max": "1.5\u20131.99\"",
+    "max_cls": 2
+   },
+   {
+    "day": "2026-08-02",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-08-04",
+    "max": "1.0\u20131.49\"",
+    "max_cls": 1
+   },
+   {
+    "day": "2026-08-05",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-08-06",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-08-07",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-08-08",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-08-09",
+    "max": "1.0\u20131.49\"",
+    "max_cls": 1
+   },
+   {
+    "day": "2026-08-10",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-08-11",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-08-12",
+    "max": "1.0\u20131.49\"",
+    "max_cls": 1
+   },
+   {
+    "day": "2026-08-13",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-08-14",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-08-15",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-08-17",
+    "max": "1.0\u20131.49\"",
+    "max_cls": 1
+   },
+   {
+    "day": "2026-08-21",
+    "max": "1.5\u20131.99\"",
+    "max_cls": 1
+   },
+   {
+    "day": "2026-08-22",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-08-23",
+    "max": "1.0\u20131.49\"",
+    "max_cls": 1
+   },
+   {
+    "day": "2026-08-28",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-08-29",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-09-04",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-09-05",
+    "max": "2.0\u20132.49\"",
+    "max_cls": 3
+   },
+   {
+    "day": "2026-09-06",
+    "max": "1.0\u20131.49\"",
+    "max_cls": 1
+   },
+   {
+    "day": "2026-09-18",
+    "max": "1.5\u20131.99\"",
+    "max_cls": 2
+   },
+   {
+    "day": "2026-09-19",
+    "max": "1.0\u20131.49\"",
+    "max_cls": 1
+   },
+   {
+    "day": "2026-09-20",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-09-21",
+    "max": "1.0\u20131.49\"",
+    "max_cls": 1
+   },
+   {
+    "day": "2026-09-22",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-09-23",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   },
+   {
+    "day": "2026-09-24",
+    "max": "0.5\u20130.99\"",
+    "max_cls": 0
+   }
+  ]
+ },
+ "wind": {
+  "source": "NOAA NCEI Storm Events Database (bulk CSV) + NOAA SPC preliminary storm reports for the recent gap",
+  "source_url": "https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/",
+  "storm_events_through": "2026-07-31",
+  "prelim_from": "2026-08-01",
+  "prelim_days_checked": 105,
+  "points": 87,
+  "points_prelim": 32,
+  "wind_days": 19,
+  "zone_high_wind": [
+   {
+    "date": "2026-03-16",
+    "time_et": "12:00 am",
+    "type": "High Wind",
+    "kts": 67.0,
+    "mph": 77,
+    "mag_type": "measured gust",
+    "place": "",
+    "county": "Sevier/Smoky Mountains",
+    "damage": "",
+    "note": "Non-thunderstorm mountain winds first exceeded high wind criteria at the 11 pm observation with 61 mph, reached a peak of 77 mph at the 2 am observation, and at 3 am receded to 72 mph. At 5 AM the final observation above high wind criteria was observed at 72 mph. At 6 AM the next",
+    "src": "NOAA Storm Events",
+    "prelim": false,
+    "id": "1324500"
+   },
+   {
+    "date": "2026-01-25",
+    "time_et": "12:00 am",
+    "type": "High Wind",
+    "kts": 81.0,
+    "mph": 93,
+    "mag_type": "measured gust",
+    "place": "",
+    "county": "Sevier/Smoky Mountains",
+    "damage": "",
+    "note": "A long duration and high end mountain wave wind event occurred in the Sevier Smokies, with a 93 mph peak gust measured at 11 AM at Cove Mountain in the national park.",
+    "src": "NOAA Storm Events",
+    "prelim": false,
+    "id": "1315039"
+   },
+   {
+    "date": "2026-01-09",
+    "time_et": "5:00 am",
+    "type": "High Wind",
+    "kts": 58.0,
+    "mph": 67,
+    "mag_type": "measured gust",
+    "place": "",
+    "county": "Sevier/Smoky Mountains",
+    "damage": "",
+    "note": "National Park Service weather station recorded a 67 mph non-thunderstorm gust at Cove Mountain.",
+    "src": "NOAA Storm Events",
+    "prelim": false,
+    "id": "1313209"
+   },
+   {
+    "date": "2025-12-18",
+    "time_et": "6:00 pm",
+    "type": "High Wind",
+    "kts": 68.0,
+    "mph": 78,
+    "mag_type": "measured gust",
+    "place": "",
+    "county": "Sevier/Smoky Mountains",
+    "damage": "",
+    "note": "The Cove Mountain Fire Tower wind instrumentation recorded wind advisory gusts from non-thunderstorm winds between 4 PM LST and 2 AM LST, with high wind criteria gusts between 6 PM and 1 AM. The peak gust occurred at 11 PM LST with a magnitude of 78 mph. The observation tower als",
+    "src": "NOAA Storm Events",
+    "prelim": false,
+    "id": "1308048"
+   },
+   {
+    "date": "2025-12-02",
+    "time_et": "4:00 am",
+    "type": "High Wind",
+    "kts": 56.0,
+    "mph": 64,
+    "mag_type": "measured gust",
+    "place": "",
+    "county": "Sevier/Smoky Mountains",
+    "damage": "0.00K",
+    "note": "Cove Mountain Fire Tower in GSMNP recorded a 59 mph non-thunderstorm wind gust at the 4 AM observation, and a 64 mph gust at the 5 AM observation.",
+    "src": "NOAA Storm Events",
+    "prelim": false,
+    "id": "1307459"
+   }
+  ]
+ }
+}
