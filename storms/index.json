@@ -1,7 +1,7 @@
 {
- "built": "2026-11-19 07:25 EST",
- "window_start": "2025-11-19",
- "window_end": "2026-11-19",
+ "built": "2026-11-20 07:25 EST",
+ "window_start": "2025-11-20",
+ "window_end": "2026-11-20",
  "bbox": [
   -84.75,
   35.4,
@@ -19,8 +19,8 @@
    "2.0\u20132.49\"",
    "2.5\"+"
   ],
-  "first_file": "2025-11-19",
-  "last_file": "2026-11-18",
+  "first_file": "2025-11-20",
+  "last_file": "2026-11-19",
   "files_checked": 365,
   "hail_days": 67,
   "features": 95,
@@ -367,7 +367,7 @@
   "source_url": "https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/",
   "storm_events_through": "2026-08-31",
   "prelim_from": "2026-09-01",
-  "prelim_days_checked": 79,
+  "prelim_days_checked": 80,
   "points": 87,
   "points_prelim": 7,
   "wind_days": 20,
